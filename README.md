@@ -1,2 +1,1 @@
-This is my first readme file.
-Task1 Repo-session
+This is my first readme file having returned back to school!
